@@ -1,6 +1,5 @@
 # VACoD
 Training-free hallucination mitigation for LVLMs via entropy-guided visual attention masking.
-# VACoD
 
 Official implementation of VACoD:
 Visual Attention Contrastive Decoding for Hallucination Mitigation in Large Vision-Language Models.
